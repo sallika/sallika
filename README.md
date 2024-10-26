@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sallika
-- 👀 I’m founder at hhtps://sallika.com
+- 👀 I’m founder at https://sallika.com
 - 🌱 I’m currently learning WP and WC developing
 - 💞️ I’m looking to collaborate on cool and usefull things.
-- 📫 How to reach me ...
+- 📫 reaching me on: instagram account: @mrsalar721
 
 <!---
 sallika/sallika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
